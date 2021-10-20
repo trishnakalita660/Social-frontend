@@ -1,0 +1,6 @@
+.sidebar{
+    flex: 3;
+    height: calc(100vh - 50px);
+    color: white;
+    background-color: aqua;
+}
